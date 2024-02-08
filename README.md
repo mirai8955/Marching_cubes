@@ -1,1 +1,4 @@
-"# Marching_cubes\n\nThis is a computer graphic of a peanut-shaped sphere based on the Marching Cube method\n‚±‚ê‚Íƒ}[ƒ`ƒ“ƒOƒLƒ…[ƒu–@‚ğ‰—p‚µ‚½ƒs[ƒiƒbƒcŒ^‚Ì‹…‘Ì‚ÌƒRƒ“ƒsƒ…[ƒ^ƒOƒ‰ƒtƒBƒbƒNƒX‚Å‚·" 
+"# Marching_cubes
+
+This is a computer graphic of a peanut-shaped sphere based on the Marching Cube method
+ï¿½ï¿½ï¿½ï¿½Íƒ}ï¿½[ï¿½`ï¿½ï¿½ï¿½Oï¿½Lï¿½ï¿½ï¿½[ï¿½uï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½sï¿½[ï¿½iï¿½bï¿½cï¿½^ï¿½Ì‹ï¿½ï¿½Ì‚ÌƒRï¿½ï¿½ï¿½sï¿½ï¿½ï¿½[ï¿½^ï¿½Oï¿½ï¿½ï¿½tï¿½Bï¿½bï¿½Nï¿½Xï¿½Å‚ï¿½" 
