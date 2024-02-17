@@ -6,5 +6,3 @@ This project showcases a computer graphic of a peanut-shaped sphere, created usi
 ## 日本語
 このレポジトリは，マーチングキューブアルゴリズムを使用して作成されたピーナッツ型の球体のコンピュータグラフィックを紹介しています。マーチングキューブ法は、3次元スカラーフィールドから等値面の多角形メッシュを生成するコンピュータグラフィックスアルゴリズムです。
 
-
-## References
