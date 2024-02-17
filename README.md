@@ -8,4 +8,3 @@ This project showcases a computer graphic of a peanut-shaped sphere, created usi
 
 
 ## References
-https://paulbourke.net/geometry/polygonise/
